@@ -1,4 +1,4 @@
-# Vissim-COM
+# Vissim-COM example in Matlab and Python
 A  practical  manual  for  Vissim-COM  programming in Matlab and Python: 
 http://kjit.bme.hu/images/Tovabbi_allomanyok/Trafficlab/Research/VISSIM/VISSIM2020-21_COM_Eng.pdf
 
